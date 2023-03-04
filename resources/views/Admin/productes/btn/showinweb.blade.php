@@ -1,0 +1,1 @@
+<a href="{{url('/')}}/pen/{{$id}}" class="btn btn-success" target="_blank">{{trans('admin.showinweb')}} </a>

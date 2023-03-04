@@ -1,0 +1,3 @@
+[01-Feb-2021 07:22:06 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\DepartmentsController::upload() in /home/quantumbitkw/public_html/app/Http/Controllers/DepartmentsController.php on line 261
+[01-Feb-2021 07:22:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\DepartmentsController::upload() in /home/quantumbitkw/public_html/app/Http/Controllers/DepartmentsController.php on line 261
+[01-Feb-2021 08:01:44 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\DepartmentsController::upload() in /home/quantumbitkw/public_html/app/Http/Controllers/DepartmentsController.php on line 261

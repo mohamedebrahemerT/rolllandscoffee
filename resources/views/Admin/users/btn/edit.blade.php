@@ -1,0 +1,1 @@
+ <a class="btn btn-primary" href="users/{{$id}}/edit"><i class="fa fa-edit"></i> {{trans('admin.edit') }}   </a>

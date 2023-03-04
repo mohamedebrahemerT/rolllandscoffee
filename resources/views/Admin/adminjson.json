@@ -1,0 +1,19 @@
+
+
+{
+	"sProcessing":   "تحميل",
+	"sLengthMenu":   " اي كلام ",
+	"sZeroRecords":  "No s'han trobat registres.",
+	"sInfo":         "الصفحات _START_ الي _END_  الكل _TOTAL_ ا ",
+	"sInfoEmpty":    "Mostrant de 0 a 0 de 0 registres",
+	"sInfoFiltered": "(filtrat de _MAX_ total registres)",
+	"sInfoPostFix":  "",
+	"sSearch":       "بحث",
+	"sUrl":          "",
+	"oPaginate": {
+		"sFirst":    "Primer",
+		"sPrevious": "السابق",
+		"sNext":     "التالي",
+		"sLast":     "Últim"
+	}
+}
