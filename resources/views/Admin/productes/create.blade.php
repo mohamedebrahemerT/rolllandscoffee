@@ -88,7 +88,7 @@
                 
               url:'{{ url('admin/productes/'.$productes->id) }}',
               dataType:'json',
-              type:'put',
+              type:'post',
                data:{
         "_token": "{{ csrf_token() }}",
         "title_name_en": title_name_en,
@@ -749,7 +749,7 @@
               
            
 
-   {!! Form::open(['url'=>url('admin/productes/'.$productes->id),'files'=>true,'method'=>'put','id'=>'save_from_data' ]) !!}
+   {!! Form::open(['url'=>url('admin/productes/'.$productes->id),'files'=>true,'method'=>'post','id'=>'save_from_data' ]) !!}
 
    
 

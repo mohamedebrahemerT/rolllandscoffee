@@ -54,6 +54,7 @@ Route::post('admin/post-sortable','DepartmentsController@updatepost');
 
     
     Route::resource('admin/productes', 'productesController');
+    Route::post('admin/productes/{id}', 'productesController@update');
 
          Route::get('admin/productesarrange', 'productesController@arrange');
 Route::post('admin/productespost-sortable','productesController@updatepost');
